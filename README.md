@@ -26,7 +26,7 @@ Hi! I'm Ayesha, a passionate web developer specializing in React.js and JavaScri
 - Want to pair-program? VS Code buddy wanted!
 
 ## 🌟 Reach me at
-- [LinkedIn](www.linkedin.com/in/ayesha-sikander)
+- [LinkedIn](https://www.linkedin.com/in/ayesha-sikander)
 - [Mail](sikanderayesha46@gmail.com)
 
 ## 🚀 Things I Love
