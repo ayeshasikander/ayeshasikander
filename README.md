@@ -46,7 +46,7 @@ Frontend-Focused MERN Stack Developer with 2+ years of experience building produ
 ## 📫 Connect With Me
 
 * LinkedIn: [linkedin.com/in/ayesha-sikander](https://www.linkedin.com/in/ayesha-sikander/)
-* Portfolio: [your-portfolio-link](https://ayesha-dev.vercel.app/)
+* Portfolio: [portfolio-link](https://ayesha-dev.vercel.app/)
 * Email: [sikanderayesha46@gmail.com](mailto:sikanderayesha46@gmail.com)
 
 Always learning, building, and shipping better products.
