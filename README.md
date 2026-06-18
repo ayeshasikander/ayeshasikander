@@ -1,43 +1,53 @@
 ![My Logo](/ayesha.png)
 
-# 🌟 Ayesha Sikander | Web Developer 🌟
+# Hi, I'm Ayesha Sikander 👋
 
-## 💻 Turning Coffee into Code 
+Frontend-Focused MERN Stack Developer with 2+ years of experience building production-grade web applications using React, Next.js, Node.js, and TypeScript.
 
-Hi! I'm Ayesha, a passionate web developer specializing in React.js and JavaScript. Here's what I'm about:
+## 🚀 What I Build
 
-### 🎓 Education
-- BSCS Graduate | The Women University Multan
-  
-### 🌈 What I Do
-- Build responsive websites and apps
-- Write clean, efficient code
-- Debug with patience and determination
+* Modern SaaS applications
+* AI-integrated web applications
+* Responsive and high-performance user interfaces
+* Full-stack solutions using the MERN stack
 
+## 🛠️ Tech Stack
 
-### 🤝 Open for Collaboration
-- JavaScript projects
-- Open-source contributions
-- Innovative web development ideas
+**Frontend**
 
-### 💡 Let's Connect!
-- Got an idea? Let's chat!
-- See something I can improve? Feedback welcome!
-- Want to pair-program? VS Code buddy wanted!
+* React.js
+* Next.js
+* JavaScript
+* TypeScript
+* Tailwind CSS
+* Redux Toolkit
 
-## 🌟 Reach me at
-- [LinkedIn](https://www.linkedin.com/in/ayesha-sikander)
-- [Mail](sikanderayesha46@gmail.com)
+**Backend**
 
-## 🚀 Things I Love
-- ⚡I love playing cricket and coding late at night!
-- & love traveling and capturing 📷 moments through photography.
+* Node.js
+* Express.js
+* MongoDB
+* REST APIs
 
+**Tools**
 
----
+* Git & GitHub
+* Vercel
+* Firebase
+* Postman
 
-"In web development, every bug is just an undocumented feature waiting to be discovered." 😊
+## 🌟 Featured Projects
 
-Remember: Every challenge is a chance to learn and create something amazing! 🌱✨
+* Life as a Video Game
+* AI-Powered Website Analyzer
+* Full-Stack SaaS Applications
+* React & Next.js Production Projects
 
-👩‍🎨 Let's build awesome websites together! 🌈
+## 📫 Connect With Me
+
+* LinkedIn: [linkedin.com/in/ayesha-sikander](https://www.linkedin.com/in/ayesha-sikander/)
+* Portfolio: [your-portfolio-link](https://ayesha-dev.vercel.app/)
+* Email: [sikanderayesha46@gmail.com](mailto:sikanderayesha46@gmail.com)
+
+Always learning, building, and shipping better products.
+okay now what about github readme?
